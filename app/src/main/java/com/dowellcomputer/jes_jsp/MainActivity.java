@@ -1,4 +1,4 @@
-package com.example.jes_jsp;
+package com.dowellcomputer.jes_jsp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
